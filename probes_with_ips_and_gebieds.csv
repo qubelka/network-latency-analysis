@@ -1,0 +1,19 @@
+anchor,probe id,Probe IPv4 address,Anchor IPv4 address,Company,Prefix,Also anchor,Objectnummer,Gebied
+1293,6400,37.10.45.14,37.10.45.14,Booking.com,37.10.45.0/24,True,9,"De Aker, Sloten, Nieuw-Sloten"
+414,6082,199.10.66.231,199.10.66.231,Afilias AMS2,199.10.66.0/24,True,10,Slotervaart
+1135,6307,193.0.0.164,193.0.0.164,RIPE NCC,193.0.0.0/21,True,1,Centrum-West
+1922,6626,84.38.236.1,84.38.236.1,Uniserver Internet BV,84.38.224.0/20,True,21,Bijlmer-West
+1973,6661,92.38.184.82,92.38.184.82,G-Core Labs S.A.,92.38.184.0/24,True,17,Watergraafsmeer
+3210,7139,94.228.136.23,94.228.136.23,Prolocation B.V.,94.228.136.0/21,False,9,"De Aker, Sloten, Nieuw-Sloten"
+2494,6984,156.154.77.254,156.154.77.254,Neustar,156.154.77.0/24,True,17,Watergraafsmeer
+422,6088,5.57.17.65,5.57.17.65,Booking.com IT Services B.V.,5.57.17.0/24,True,10,Slotervaart
+2266,6955,194.109.78.2,194.109.78.2,XS4ALL,194.109.0.0/16,True,12,"Buitenveldert, Zuidas"
+1304,6348,193.0.0.165,193.0.0.165,RIPE NCC,193.0.0.0/21,True,3,Centrum-Oost
+880,6220,217.196.33.252,217.196.33.252,TMG / Telegraaf,217.196.32.0/20,False,7,Sloterdijk Nieuw-West
+954,6254,194.122.76.250,194.122.76.250,GTT (AS286),194.122.76.0/22,True,3,Centrum-Oost
+282,6031,145.220.0.55,145.220.0.55,SURFnet,145.220.0.0/16,False,3,Centrum-Oost
+3375,7188,84.32.189.210,84.32.189.210,Cherry Servers,84.32.188.0/22,False,18,"IJburg, Zeeburgereiland"
+2273,6932,91.200.16.69,91.200.16.69,AMS-IX,91.200.16.0/22,False,16,"Indische Buurt, Oostelijk Havengebied"
+3366,7190,45.87.135.254,45.87.135.254,Global DC Oy,45.87.132.0/22,False,3,Centrum-Oost
+1819,6584,46.148.125.32,46.148.125.32,LLhost-inc,46.148.125.0/24,True,3,Centrum-Oost
+2737,6969,188.166.44.91,188.166.44.91,DigitalOcean,188.166.0.0/18,True,17,Watergraafsmeer
